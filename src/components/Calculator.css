@@ -1,0 +1,18 @@
+.calculatorBody{
+    width: 400px;
+    height: 800px;
+}
+.output{
+    width: 90%;
+    height: 30px;
+    padding: 10px;
+}
+.buttons button {
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 5px;
+    background: #f0f0f0;
+  }
